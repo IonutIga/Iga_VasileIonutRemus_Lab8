@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql.local",
+      "connectionId": "Iga_VasileIonutRemus_Lab8Context"
+    }
+  }
+}
